@@ -10,6 +10,6 @@ Download CSV from Spansh neutron planner, place it alongside the .jar and run ev
 
 ## Compilation
 
-Clone or download the repository; open a command line and type ``./gradlew shadowJar`` (or ``gradlew.exe shadowJar`` on Windows)
+Clone or download the repository; open a command line and type ``./gradlew shadowJar`` (or ``gradlew.bat shadowJar`` on Windows)
 The .jar executable will be in ``out/libs``
 Of course this requires JDK8+
